@@ -1,0 +1,5 @@
+require("StaticData/StaticData_vi_VN/CampaignCfg")
+require("StaticData/StaticData_vi_VN/General")
+require("StaticData/StaticData_vi_VN/Items")
+require("StaticData/StaticData_vi_VN/Skill")
+require("StaticData/StaticData_vi_VN/Soldier")

@@ -1,0 +1,7 @@
+require("Xml/Xml_vi_VN/CastleMap")
+require("Xml/Xml_vi_VN/CastleText")
+require("Xml/Xml_vi_VN/DebugText")
+require("Xml/Xml_vi_VN/MainCityDialogConfig")
+require("Xml/Xml_vi_VN/PreText")
+require("Xml/Xml_vi_VN/Text")
+require("Xml/Xml_vi_VN/Text_for")
